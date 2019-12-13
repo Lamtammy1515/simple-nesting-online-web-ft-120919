@@ -126,9 +126,7 @@ def changing_alan
      
 end
 
-changing_alan
 
-end
 
 def adding_to_dennis
 	programmer_hash = 
@@ -150,6 +148,3 @@ def adding_to_dennis
   programmer_hash
 end
 
-adding_to_dennis
-
-end

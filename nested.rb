@@ -20,8 +20,7 @@ programmer_hash[:grace.hopper]
 
 end
 
-hopper
-end
+
 
 def alan_kay_is_known_for
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
@@ -45,9 +44,7 @@ def alan_kay_is_known_for
      programmer_hash[:alan_kay][:known_for]
 end
 
-alan_kay_is_known_for
 
-end
 
 def dennis_ritchies_language
 	programmer_hash = 
@@ -103,9 +100,7 @@ def adding_matz
   programmer_hash
 end
 
-adding_matz
 
-end
 
 def changing_alan
 	programmer_hash = 
